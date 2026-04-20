@@ -1,4 +1,4 @@
-# Lattice-Swarm: Olfati-Saber Flocking
+# $\alpha$ Lattice-Swarm: Olfati-Saber Flocking
 
 A clean, from-scratch Python/NumPy implementation of the three distributed
 flocking algorithms from:
