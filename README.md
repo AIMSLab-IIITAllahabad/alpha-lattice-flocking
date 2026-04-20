@@ -138,12 +138,12 @@ sim = FlockSim(q0, p0, algorithm=2, target_pos=gamma, ...)
 
 ---
 
-![Fig. 7 reproduction](paper_fig7_repro.png)
-![Fig. 8 reproduction](paper_fig8_repro.png)
-![Fig. 9 reproduction](paper_fig9_repro.png)
-![Fig. 10 reproduction](paper_fig10_repro.png)
-![Fig. 11 reproduction](paper_fig11_repro.png)
-![Fig. 12 reproduction](paper_fig12_repro.png)
+![Fig. 7 reproduction](figures/paper_fig7_repro.png)
+![Fig. 8 reproduction](figures/paper_fig8_repro.png)
+![Fig. 9 reproduction](figures/paper_fig9_repro.png)
+![Fig. 10 reproduction](figures/paper_fig10_repro.png)
+![Fig. 11 reproduction](figures/paper_fig11_repro.png)
+![Fig. 12 reproduction](figures/paper_fig12_repro.png)
 
 ## Paper Figure Reproductions
 
